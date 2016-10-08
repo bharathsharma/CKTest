@@ -1,5 +1,5 @@
 This is a test file for CK
 secret = "1OkassfgC5dGwtflUn5c+TaIDVSrLKJHGzwrQptA"
-key = "AKIAILRI2UN6EOOGN41Q"
+kedxy = "AKIAILRI2UN6EOOGN41Q"
 something
 Testing in one
