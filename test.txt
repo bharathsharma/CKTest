@@ -2,7 +2,3 @@ OMG Fail
 AKIAIOSFODNN7EXAMPLEEE
 something
 Testing in one
-This is a test file for CK in golang
-Testing in golang
-secret = "1OkassfgC5dGwtflUn5c+TaIDVSrLKJHGzwrQptA"
-kedxy = "AKIAILRI2U46EOOGN41Q"
